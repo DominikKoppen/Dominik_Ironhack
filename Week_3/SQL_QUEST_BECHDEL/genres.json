@@ -1,0 +1,82 @@
+﻿[
+    {
+        "genre_ID": "1",
+        "genre_name": "Action"
+    },
+    {
+        "genre_ID": "2",
+        "genre_name": "Adventure"
+    },
+    {
+        "genre_ID": "3",
+        "genre_name": "Animation"
+    },
+    {
+        "genre_ID": "4",
+        "genre_name": "Comedy"
+    },
+    {
+        "genre_ID": "5",
+        "genre_name": "Crime"
+    },
+    {
+        "genre_ID": "6",
+        "genre_name": "Documentary"
+    },
+    {
+        "genre_ID": "7",
+        "genre_name": "Drama"
+    },
+    {
+        "genre_ID": "8",
+        "genre_name": "Family"
+    },
+    {
+        "genre_ID": "9",
+        "genre_name": "Fantasy"
+    },
+    {
+        "genre_ID": "10",
+        "genre_name": "History"
+    },
+    {
+        "genre_ID": "11",
+        "genre_name": "Horror"
+    },
+    {
+        "genre_ID": "12",
+        "genre_name": "Music"
+    },
+    {
+        "genre_ID": "13",
+        "genre_name": "Mystery"
+    },
+    {
+        "genre_ID": "14",
+        "genre_name": "Other/unspecified"
+    },
+    {
+        "genre_ID": "15",
+        "genre_name": "Romance"
+    },
+    {
+        "genre_ID": "16",
+        "genre_name": "Science Fiction"
+    },
+    {
+        "genre_ID": "17",
+        "genre_name": "TV Movie"
+    },
+    {
+        "genre_ID": "18",
+        "genre_name": "Thriller"
+    },
+    {
+        "genre_ID": "19",
+        "genre_name": "War"
+    },
+    {
+        "genre_ID": "20",
+        "genre_name": "Western"
+    }
+]
