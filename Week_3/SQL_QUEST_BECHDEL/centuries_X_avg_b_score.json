@@ -1,0 +1,46 @@
+[
+	{
+		"century" : "1920s",
+		"avg_b_score" : 0.0000
+	},
+	{
+		"century" : "1930s",
+		"avg_b_score" : 1.7000
+	},
+	{
+		"century" : "1940s",
+		"avg_b_score" : 2.2500
+	},
+	{
+		"century" : "1950s",
+		"avg_b_score" : 1.8333
+	},
+	{
+		"century" : "1960s",
+		"avg_b_score" : 1.9722
+	},
+	{
+		"century" : "1970s",
+		"avg_b_score" : 1.5667
+	},
+	{
+		"century" : "1980s",
+		"avg_b_score" : 1.8467
+	},
+	{
+		"century" : "1990s",
+		"avg_b_score" : 1.8921
+	},
+	{
+		"century" : "2000s",
+		"avg_b_score" : 2.0907
+	},
+	{
+		"century" : "2010s",
+		"avg_b_score" : 2.1881
+	},
+	{
+		"century" : "2020s",
+		"avg_b_score" : 2.4793
+	}
+]
